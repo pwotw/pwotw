@@ -1,4 +1,4 @@
-# Pandas Weirdness of the week
+# Pandas Weirdness of the Week
 
 A collection of Weird behaviour encountered when using Pandas.
 
